@@ -9,6 +9,12 @@ This code is submission for **Dyte**
 
 18BCE2146-Piyush Bajaj  -   piyush.bajaj2018@vitstudent.ac.in
 
+## Features Included
+
+1) Live view of the website is hot-reloaded to display new output
+2) Use the Pastebin Developer API to save your code, generate a unique link, and then load it back at a later stage. Pastebin pasted code will be available in brower console.
+3) Deployed the website on Github pages. - https://piyushxbajaj.github.io/DyteCodeEditor/
+
 ## Installation
 
 Clone the repo
@@ -24,18 +30,9 @@ https://cors-anywhere.herokuapp.com/
 
 ## Usage
 
-```python
-import foobar
+https://piyushxbajaj.github.io/DyteCodeEditor/
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+At the above link, use html,css,js code snippets to create live preview.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
