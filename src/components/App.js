@@ -9,7 +9,7 @@ import { Container, Row, Col } from 'reactstrap';
 
 
 function App() {
-    const [html, setHtml] = useLocalStorage('html', '<h1>I am a headline made with HTML</h1> <p > And I am a simple text paragraph.The color of this text is styled with CSS.< /p>')
+    const [html, setHtml] = useLocalStorage('html', '<h1>Submission by Piyush Bajaj<h1><br><br></h1></h1><h1>I am a headline made with HTML</h1> <p > And I am a simple text paragraph.The color of this text is styled with CSS.< /p>')
     const [css, setCss] = useLocalStorage('css', 'body { 	font-family: sans-serif; 	text-align: center; 	padding: 3rem; 	font-size: 1.125rem; 	line-height: 1.5; 	transition: all 725ms ease-in-out; }  h1 { 	font-size: 2rem; 	font-weight: bolder; 	margin-bottom: 1rem; }  p { 	margin-bottom: 1rem; 	color: tomato; }  button { 	cursor: pointer; 	appearance: none; 	border-radius: 4px; 	font-size: 1.25rem; 	padding: 0.75rem 1rem; 	border: 1px solid navy; 	background-color: dodgerblue; 	color: white; }')
     const [js, setJs] = useLocalStorage('js', 'document.body.style.backgroundColor = "orange";')
 
