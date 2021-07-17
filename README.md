@@ -27,6 +27,9 @@ Get your Pastebin API key from https://pastebin.com/doc_api (Pastebin has enable
 ```html
 https://cors-anywhere.herokuapp.com/
 ```
+## Screenshot
+
+![Screenshot](https://github.com/piyushxbajaj/DyteCodeEditor/blob/main/Screenshot.png)
 
 ## Usage
 
