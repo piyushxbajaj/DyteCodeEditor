@@ -14,6 +14,7 @@ This code is submission for **Dyte**
 1) Live view of the website is hot-reloaded to display new output
 2) Use the Pastebin Developer API to save your code, generate a unique link, and then load it back at a later stage. Pastebin pasted code will be available in brower console.
 3) Deployed the website on Github pages. - https://piyushxbajaj.github.io/DyteCodeEditor/
+4) passes CORS policy successfully by using proxy URL 
 
 ## Installation
 
